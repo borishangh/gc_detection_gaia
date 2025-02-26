@@ -1,4 +1,5 @@
 ## gc_list params
+This data is scrapped from [SEDS Milky Way Globular Clusters](https://spider.seds.org/spider/MWGC/mwgc.html) list.
 - RA: Right Ascension (degrees)
 - DEC: Declination (degrees)
 - Con: Constellation
